@@ -7,7 +7,7 @@
         <event_mappings>[
     
 ]</event_mappings>
-        <macroponent display_value="NeedIt User Home">91b1de5297ea02104c1cfefce053af7f</macroponent>
+        <macroponent display_value="Default">4264b332976202104c1cfefce053af4d</macroponent>
         <macroponent_config>{
     "bare": {
         "type": "JSON_LITERAL",
@@ -38,28 +38,28 @@
         "value": "y"
     }
 }</macroponent_config>
-        <name>NeedIt User Home</name>
+        <name>Default</name>
         <order>0</order>
         <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
-        <screen_type display_value="Home">a1830a1297aa02104c1cfefce053af93</screen_type>
+        <screen_type display_value="Record">4664bbfe972202104c1cfefce053af72</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-06-04 21:27:36</sys_created_on>
+        <sys_created_on>2024-06-06 17:55:48</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>d5b11e9297ea02104c1cfefce053af49</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>NeedIt User Home</sys_name>
+        <sys_id>2264b332976202104c1cfefce053af5a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_screen_d5b11e9297ea02104c1cfefce053af49</sys_update_name>
+        <sys_update_name>sys_ux_screen_2264b332976202104c1cfefce053af5a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-06 18:26:07</sys_updated_on>
+        <sys_updated_on>2024-06-06 17:57:37</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=d5b11e9297ea02104c1cfefce053af49"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2264b332976202104c1cfefce053af5a"/>
 </record_update>

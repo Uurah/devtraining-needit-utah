@@ -629,7 +629,58 @@
         <name>NeedIt User Home</name>
         <output_prop_mapping/>
         <props>[
-    
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxddljjiiibbaamkxddffhhrxnivsght",
+        "inherited": false,
+        "label": "table",
+        "mandatory": false,
+        "name": "table",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxddljjiiibbaamkyddffhhregglptnpee",
+        "inherited": false,
+        "label": "listTitle",
+        "mandatory": false,
+        "name": "listTitle",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxddljjiiibbaamkzddffhhrpyuzmccxl",
+        "inherited": false,
+        "label": "query",
+        "mandatory": false,
+        "name": "query",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxddljjiiibbaamlaaddffhhrffqtaawmbbr",
+        "inherited": false,
+        "label": "listView",
+        "mandatory": false,
+        "name": "listView",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    }
 ]</props>
         <required_translations>[ {
   "message" : "My Active NeedIts",
@@ -650,14 +701,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-04 21:27:35</sys_created_on>
         <sys_id>91b1de5297ea02104c1cfefce053af7f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>NeedIt User Home</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_ux_macroponent_91b1de5297ea02104c1cfefce053af7f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-04 21:30:48</sys_updated_on>
+        <sys_updated_on>2024-06-06 18:26:07</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=91b1de5297ea02104c1cfefce053af7f"/>
 </record_update>
